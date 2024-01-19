@@ -2,7 +2,6 @@
 pragma solidity ^0.8.13;
 
 import {Test, console2} from "forge-std/Test.sol";
-import {MockBRC20Manager} from "../src/mocks/MockBRC20Manager.sol";
 import {BRC20} from "../src/BRC20.sol";
 
 
